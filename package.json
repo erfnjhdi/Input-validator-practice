@@ -1,0 +1,16 @@
+{
+  "name": "exercise_3",
+  "version": "1.0.0",
+  "description": "Exercise 3 package",
+  "main": "validate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erfan Jahedi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ej": "^1.0.4",
+    "express": "^4.19.2"
+  }
+}
